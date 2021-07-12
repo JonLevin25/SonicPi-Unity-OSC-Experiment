@@ -357,6 +357,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1042228126}
+  - component: {fileID: 1042228127}
   - component: {fileID: 1042228125}
   m_Layer: 0
   m_Name: GameObject
@@ -374,17 +375,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 1042228124}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9b410c968d301349a7ff6a8fac6be04, type: 3}
+  m_Script: {fileID: 11500000, guid: 464088183d2a1484ab8fb64e356c9f5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  localPort: 9010
-  serverName: Unity-OSCQuery
-  rootObject: {fileID: 0}
-  objectFilterMode: 0
-  filteredObjects: []
-  componentFilterMode: 2
-  filteredComponentNames: []
-  excludeInternalUnityParams: 0
+  _autoConnect: 1
+  _closeOnPause: 0
+  _mapBundle: {fileID: 0}
+  _workInEditor: 1
+  _localHostMode: 0
+  _localPortMode: 2
+  _localReceiver: {fileID: 1042228127}
+  _localHost: 192.168.0.42
+  _localPort: 7000
+  _remoteHost: 127.0.0.1
+  _remotePort: 7000
+  _useBundle: 0
 --- !u!4 &1042228126
 Transform:
   m_ObjectHideFlags: 0
@@ -399,6 +404,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1042228127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1042228124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbba286dc10e549b2bdec947ef8dbd3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _autoConnect: 1
+  _closeOnPause: 0
+  _mapBundle: {fileID: 11400000, guid: 04c48b4bf06a8c04fab24baa031b80b1, type: 2}
+  _workInEditor: 1
+  _localHostMode: 0
+  _localHost: 192.168.0.42
+  _localPort: 4561
 --- !u!1 &1145444333
 GameObject:
   m_ObjectHideFlags: 0
@@ -665,6 +689,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
+--- !u!4 &1556901917 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4546306150371900, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
+  m_PrefabInstance: {fileID: 1556901916}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1556901918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1973017577027654, guid: 85dfab9623c67784fa7894de63cd1604, type: 3}
+  m_PrefabInstance: {fileID: 1556901916}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1556901919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1556901918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc9acb89dec269c499c22eeb9eeb4e1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  receiver: {fileID: 1042228127}
+  oscPath: /sonic/bd
+  target: {fileID: 1556901917}
+  targetScale: {x: 2, y: 2, z: 2}
+  duration: 0.25
 --- !u!1 &1687258581
 GameObject:
   m_ObjectHideFlags: 0
