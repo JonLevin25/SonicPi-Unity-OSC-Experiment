@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Reflection;
 using extOSC;
 using extOSC.Core;
 using extOSC.Editor;
@@ -7,6 +8,7 @@ using extOSC.Editor.Windows;
 using GDX;
 using UnityEditor;
 using UnityEngine;
+using Object = UnityEngine.Object;
 
 namespace MyOscComponents.EditorNS
 {
@@ -21,26 +23,56 @@ namespace MyOscComponents.EditorNS
         private Color _defaultColor;
         private OscTriggeredEffect[] _triggerableFX;
 
+        private int nullErrorsCounters;
         protected override void DrawContent(ref Rect contentRect)
         {
-            _defaultColor = GUI.color;
-            using (new GUILayout.HorizontalScope(EditorStyles.toolbar))
+            try
             {
-                DrawRefreshButton();
-                GUILayout.FlexibleSpace();
+                _defaultColor = GUI.color;
+                using (new GUILayout.HorizontalScope(EditorStyles.toolbar))
+                {
+                    DrawRefreshButton();
+                    GUILayout.FlexibleSpace();
+                }
+
+                using (var scroll = new GUILayout.ScrollViewScope(_scrollPosition))
+                {
+                    var expand = contentRect.width > 350;
+                    if (expand) GUILayout.BeginHorizontal();
+
+                    DrawReceivers();
+                    DrawTriggeredFX();
+
+                    if (expand) GUILayout.EndHorizontal();
+
+                    _scrollPosition = scroll.scrollPosition;
+                }
+
+                nullErrorsCounters = 0; // No nulls encountered - Reset
             }
-
-            using (var scroll = new GUILayout.ScrollViewScope(_scrollPosition))
+            catch (UnassignedReferenceException e)
             {
-                var expand = contentRect.width > 350;
-                if (expand) GUILayout.BeginHorizontal();
+                OnNullError(e);
+            }
+            catch (NullReferenceException e)
+            {
+                OnNullError(e);
+            }
+            catch (MissingReferenceException e)
+            {
+                OnNullError(e);
+            }
+        }
 
-                DrawReceivers();
-                DrawTriggeredFX();
-
-                if (expand) GUILayout.EndHorizontal();
-
-                _scrollPosition = scroll.scrollPosition;
+        private void OnNullError(Exception e)
+        {
+            if (nullErrorsCounters++ == 0)
+            {
+                Refresh();
+            }
+            else
+            {
+                Debug.LogException(e);
             }
         }
 

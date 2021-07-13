@@ -5,7 +5,6 @@ using UnityEngine;
 
 namespace MyOscComponents.EditorNS
 {
-	
 	public class MyOscBindingWindow : OSCWindow<MyOscBindingWindow, OscBindingsPanel>
 	{
 		[MenuItem("Tools/My OSC/" + "OSC Bindings")]
