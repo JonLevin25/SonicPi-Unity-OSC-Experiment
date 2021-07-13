@@ -30,6 +30,7 @@ MonoBehaviour:
     m_Url: https://package.openupm.com
     m_Scopes:
     - com.benkuper.oscquery
+    - com.dbrizov.naughtyattributes
     - com.demigiant.dotween
     - com.dotbunny.gdx
     - com.iam1337.extosc
@@ -47,6 +48,7 @@ MonoBehaviour:
       m_Url: https://package.openupm.com
       m_Scopes:
       - com.benkuper.oscquery
+      - com.dbrizov.naughtyattributes
       - com.demigiant.dotween
       - com.dotbunny.gdx
       - com.iam1337.extosc
@@ -59,6 +61,7 @@ MonoBehaviour:
     m_Url: https://package.openupm.com
     m_Scopes:
     - com.benkuper.oscquery
+    - com.dbrizov.naughtyattributes
     - com.demigiant.dotween
     - com.dotbunny.gdx
     - com.iam1337.extosc
