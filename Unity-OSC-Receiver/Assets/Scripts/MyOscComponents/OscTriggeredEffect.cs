@@ -40,5 +40,39 @@ namespace MyOscComponents
             var subscriptionDisposables = _triggeredBy.Select(recv => recv.MessageProp.Subscribe());
             _subscriptions = new CompositeDisposable(subscriptionDisposables);
         }
+
+        #region Helpers
+
+        protected static (bool success, Color color) ExtractColor(OSCMessage msg)
+        {
+            var value = ExtractValue(msg);
+            return value.Type == OSCValueType.Color
+                ? (true, value.ColorValue)
+                : default;
+        }
+
+        private static OSCValue ExtractValue(OSCMessage msg)
+            => ExtractValues(msg, 1)?.FirstOrDefault();
+
+        private static IEnumerable<OSCValue> ExtractValues(OSCMessage msg, int expectedCount)
+        {
+            var valuesCount = msg.Values.Count;
+            if (valuesCount < expectedCount)
+            {
+                Debug.LogError(
+                    $"Osc Message ({msg}) had less values ({expectedCount}) than expected! ({valuesCount}). Cannot Parse");
+                return default;
+            }
+
+            if (valuesCount > expectedCount)
+            {
+                Debug.LogWarning($"Osc Message ({msg}) had more values ({valuesCount}) than expected! (1)");
+                return msg.Values.Take(expectedCount);
+            }
+
+            return msg.Values;
+        }
+
+        #endregion
     }
 }
