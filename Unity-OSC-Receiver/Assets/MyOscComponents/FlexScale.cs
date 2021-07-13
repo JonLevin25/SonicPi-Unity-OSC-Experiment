@@ -27,9 +27,4 @@ public class FlexScale : MonoBehaviour
         _runningTween = target.DOScale(targetScale, duration).SetLoops(2, LoopType.Yoyo);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
