@@ -8,6 +8,13 @@ namespace MyOscComponents
 {
     public static class OscValueExtensions
     {
+        public static (bool success, string color) ExtractString(this OSCValue value)
+        {
+            return value.Type == OSCValueType.String
+                ? (true, value.StringValue)
+                : default;
+        }
+        
         public static (bool success, Color color) ExtractColor(this OSCValue value)
         {
             return value.Type == OSCValueType.Color

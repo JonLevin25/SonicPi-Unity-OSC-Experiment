@@ -6,7 +6,13 @@ namespace MyOscComponents
 {
     public class OscMessageGroup : OscTriggeredEffect
     {
-        [SerializeField] private List<OscTriggeredEffect> effects;
+        [SerializeField] private OscTriggeredEffect[] effects;
+        [SerializeField] private bool getChildrenOnAwake;
+
+        private void Awake()
+        {
+            if (getChildrenOnAwake) effects = GetComponentsInChildren<OscTriggeredEffect>();
+        }
         
         public override void HandleValue(OSCValue val)
         {
