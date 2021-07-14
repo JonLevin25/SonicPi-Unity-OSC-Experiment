@@ -22,6 +22,12 @@ namespace MyOscComponents
 
         private OSCTransmitter Transmitter => transmitter ??= FindObjectOfType<OSCTransmitter>();
 
+        private void Reset()
+        {
+            var trans= FindObjectsOfType<OSCTransmitter>();
+            if (trans.Length == 1) transmitter = trans[0];
+        }
+        
         public bool SendMessage(params OSCValue[] values)
         {
             try

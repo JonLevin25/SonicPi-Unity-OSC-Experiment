@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace MyOscComponents
 {
-    public class LightColorFX : OscAnimatedColorProp
+    public class LightIntensityFX : OscAnimatedFloatProp
     {
         [SerializeField] private Light light;
 
@@ -14,16 +14,16 @@ namespace MyOscComponents
             base.OneTimeInit();
         }
         
-        protected override void PropSetterInternal(Color value)
+        protected override void PropSetterInternal(float value)
         {
-            light.color = value;
+            light.intensity = value;
             prop = value;
         }
 
-        protected override Color GetPropSourceValue() 
-            => light == null ? default : light.color;
+        protected override float GetPropSourceValue() 
+            => light == null ? default : light.intensity;
         
 
-        protected override (bool success, Color value) ExtractValue(OSCValue val) => val.ExtractColor();
+        protected override (bool success, float value) ExtractValue(OSCValue val) => val.ExtractFloat();
     }
 }

@@ -6,49 +6,40 @@ namespace MyOscComponents
     public abstract class OscUnityProperty<TProp> : OscTriggeredEffect
     {
         [SerializeField] protected TProp prop;
-        
-        protected bool _wasInit;
-        
+        [SerializeField] private bool bindSourceToThisOnValidate = true;
+
         public TProp Prop
         {
             get => prop;
-            set
-            {
-                prop = value;
-                PropSetter(value);
-            }
+            set => PropSetter(value);
         }
 
-        private void Awake() => Init();
-        private void OnValidate()
+        protected override void OnValidate()
         {
-            Init();
-            PropSetter(prop);
+            base.OnValidate();
+            if (bindSourceToThisOnValidate) PropSetter(prop);
         }
 
         protected abstract void PropSetter(TProp value);
-        
+        protected abstract (bool success, TProp value) ExtractValue(OSCValue value);
+
         /// <summary>
         /// Implement this to get the default value before your prop is bound. <br />
         /// i.e for Ambient light, this would return RenderSettings.ambientColor
         /// </summary>
-        protected abstract TProp PropDefaultValueGetter();
+        protected abstract TProp GetPropSourceValue();
 
-        protected abstract (bool success, TProp value) GetValueFromMsg(OSCMessage msg);
-
-        protected virtual void Init()
+        protected override void OneTimeInit()
         {
-            if (_wasInit) return;
-            prop = PropDefaultValueGetter();
-            _wasInit = true;
+            base.OneTimeInit();
+            prop = GetPropSourceValue();
         }
 
-        public override void HandleMsg(OSCMessage msg)
+        public override void HandleValue(OSCValue val)
         {
-            var (success, val) = GetValueFromMsg(msg);
+            var (success, finalVal) = ExtractValue(val);
             if (!success) return;
-            
-            PropSetter(val);
+            PropSetter(finalVal);
         }
     }
 }
