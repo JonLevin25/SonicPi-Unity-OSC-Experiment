@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using NaughtyAttributes;
+using UniRx;
 using UnityEngine;
 
 public static class QuaternionHelpers
@@ -39,14 +40,19 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
+        GameManager.Instance.Paused.Do(OnPaused);
+        
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = true;
-        Cursor.SetCursor(crosshair, new Vector2(0.5f, 0.5f), CursorMode.Auto);
+        if (crosshair) Cursor.SetCursor(crosshair, new Vector2(0.5f, 0.5f), CursorMode.Auto);
     }
 
     // Update is called once per frame
+
     void Update()
     {
+        if (GameManager.Instance.Paused.Value) return;
+        
         var hor = Input.GetAxis("Horizontal");
         var ver = Input.GetAxis("Vertical");
         var moveSpeed = new Vector3(
@@ -59,6 +65,11 @@ public class PlayerController : MonoBehaviour
         var mouseDelta = new Vector2(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y"));
         
         Rotate(mouseDelta);
+    }
+
+    private void OnPaused(bool paused)
+    {
+        
     }
 
     private void Rotate(Vector2 input)

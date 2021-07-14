@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using extOSC;
+using Unity.VisualScripting;
 using UnityEngine;
 
 namespace MyOscComponents
@@ -16,7 +18,7 @@ namespace MyOscComponents
         
         public override void HandleValue(OSCValue val)
         {
-            foreach (var fx in effects)
+            foreach (var fx in effects.Except(this.Yield()))
             {
                 fx.HandleValue(val);
             }

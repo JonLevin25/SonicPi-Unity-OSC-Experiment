@@ -9,7 +9,7 @@ namespace MyOscComponents
     {
         [Header("Animation")]
         [SerializeField] private Ease easing = Ease.Linear;
-        [SerializeField] private float duration;
+        [SerializeField] private Vector2 durationRange = new Vector2(0.5f, 1f);
         
         private Tween _anim;
 
@@ -22,7 +22,7 @@ namespace MyOscComponents
         {
             if (!Application.isPlaying) PropSetterInternal(value);
             _anim?.Kill();
-            _anim = Animate(value, duration, easing);
+            _anim = Animate(value, durationRange.RandomBetween(), easing);
         }
         
         private Tween Animate(Color targetColor, float dur, Ease ease)
