@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using extOSC;
 using NaughtyAttributes;
@@ -9,7 +10,10 @@ namespace MyOscComponents
 {
     public class RandomSubsetSelector : OscTriggeredEffect
     {
-        [SerializeField, MinMaxSlider(0f, 1f)] private Vector2 selectionPercent = new Vector2(0f, 1f);
+        [SerializeField] private bool useAll;
+        
+        [DisableIf(nameof(useAll)), MinMaxSlider(0f, 1f)]
+        [SerializeField] private Vector2 selectionPercent = new Vector2(0f, 1f);
         
         [DisableIf(nameof(getEffectsInChildrenOnAwake))]
         [SerializeField] private OscTriggeredEffect[] allEffects;
@@ -19,7 +23,12 @@ namespace MyOscComponents
 
         protected override void Awake()
         {
-            if (getEffectsInChildrenOnAwake) allEffects = GetComponentsInChildren<OscTriggeredEffect>();
+            if (getEffectsInChildrenOnAwake)
+            {
+                allEffects = GetComponentsInChildren<OscTriggeredEffect>()
+                    .Where(x => x != this).ToArray();
+            }
+            
             base.Awake();
         }
         
@@ -33,12 +42,19 @@ namespace MyOscComponents
 
         public override void HandleValue(OSCValue val)
         {
-            var percent = Random.Range(selectionPercent[0], selectionPercent[1]);
-            var count = (int)(percent * _randomSetSelector.TotalCount);
-            foreach (var effect in _randomSetSelector.RandomSubset(count))
+            foreach (var effect in GetRandomSubset())
             {
                 effect.HandleValue(val);
             }
+        }
+
+        private IEnumerable<OscTriggeredEffect> GetRandomSubset()
+        {
+            if (useAll) return allEffects;
+            
+            var percent = Random.Range(selectionPercent[0], selectionPercent[1]);
+            var count = (int)(percent * _randomSetSelector.TotalCount);
+            return _randomSetSelector.RandomSubset(count);
         }
     }
 }
