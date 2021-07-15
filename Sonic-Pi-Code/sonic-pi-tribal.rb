@@ -1,4 +1,5 @@
 use_osc "localhost", 7000
+use_real_time
 
 live_loop :metronome do
   sleep 1
