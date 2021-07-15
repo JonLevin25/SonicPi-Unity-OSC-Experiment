@@ -204,7 +204,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -344,7 +344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -484,7 +484,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -624,7 +624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -764,7 +764,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -904,7 +904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -1044,7 +1044,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -1184,7 +1184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -1354,7 +1354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -1545,7 +1545,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -1685,7 +1685,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -1825,7 +1825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -1965,7 +1965,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -2105,7 +2105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -2245,7 +2245,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -2385,7 +2385,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -2454,7 +2454,7 @@ GameObject:
   m_Component:
   - component: {fileID: 94186187}
   m_Layer: 0
-  m_Name: GeneralFX
+  m_Name: FX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2474,6 +2474,7 @@ Transform:
   - {fileID: 75744338}
   - {fileID: 62842798}
   - {fileID: 690252357}
+  - {fileID: 1712414607}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2558,7 +2559,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -2698,7 +2699,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -2838,7 +2839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -2978,7 +2979,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -3118,7 +3119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -3258,7 +3259,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -3398,7 +3399,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -3538,7 +3539,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -3678,7 +3679,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -3818,7 +3819,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -3958,7 +3959,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -4098,7 +4099,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -4238,7 +4239,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -4378,7 +4379,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -4518,7 +4519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -4658,7 +4659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -4798,7 +4799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -4938,7 +4939,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -5078,7 +5079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -5218,7 +5219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -5358,7 +5359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -5498,7 +5499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -5638,7 +5639,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -5778,7 +5779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -5918,7 +5919,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -6058,7 +6059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -6198,7 +6199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -6389,7 +6390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -6529,7 +6530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -6669,7 +6670,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -6809,7 +6810,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -6949,7 +6950,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -7089,7 +7090,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -7229,7 +7230,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -7369,7 +7370,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -7509,7 +7510,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -7760,7 +7761,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -7900,7 +7901,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -8040,7 +8041,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -8180,7 +8181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -8320,7 +8321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -8460,7 +8461,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -8600,7 +8601,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -8740,7 +8741,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -8880,7 +8881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -9020,7 +9021,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -9271,7 +9272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -9411,7 +9412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -9551,7 +9552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -9691,7 +9692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -9831,7 +9832,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -9971,7 +9972,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -10111,7 +10112,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -10251,7 +10252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -10391,7 +10392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -10531,7 +10532,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -10671,7 +10672,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -10888,7 +10889,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -11028,7 +11029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -11168,7 +11169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -11308,7 +11309,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -11448,7 +11449,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -11588,7 +11589,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -11728,7 +11729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -11868,7 +11869,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12008,7 +12009,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12148,7 +12149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12288,7 +12289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12428,7 +12429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12568,7 +12569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12708,7 +12709,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12848,7 +12849,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -12988,7 +12989,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -13128,7 +13129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -13268,7 +13269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -13408,7 +13409,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -13548,7 +13549,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -13688,7 +13689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -13828,7 +13829,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -13968,7 +13969,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -14108,7 +14109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -14248,7 +14249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -14388,7 +14389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -14528,7 +14529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -14668,7 +14669,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -14901,7 +14902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -15041,7 +15042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -15181,7 +15182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -15321,7 +15322,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -15461,7 +15462,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -15601,7 +15602,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -15741,7 +15742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -15881,7 +15882,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -16021,7 +16022,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -16161,7 +16162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -16301,7 +16302,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -16441,7 +16442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -16581,7 +16582,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -16721,7 +16722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -16861,7 +16862,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -17001,7 +17002,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -17141,7 +17142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -17281,7 +17282,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -17490,7 +17491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -17630,7 +17631,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -17770,7 +17771,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -17910,7 +17911,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -18050,7 +18051,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -18190,7 +18191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -18330,7 +18331,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -18470,7 +18471,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -18610,7 +18611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -18750,7 +18751,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -18890,7 +18891,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -19030,7 +19031,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -19170,7 +19171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -19310,7 +19311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -19450,7 +19451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -19590,7 +19591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -19730,7 +19731,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -19870,7 +19871,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20010,7 +20011,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20150,7 +20151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20290,7 +20291,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20430,7 +20431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20570,7 +20571,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20710,7 +20711,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20850,7 +20851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -20990,7 +20991,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -21130,7 +21131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -21270,7 +21271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -21472,7 +21473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -21612,7 +21613,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -21752,7 +21753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -21892,7 +21893,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -22032,7 +22033,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -22172,7 +22173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -22312,7 +22313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -22452,7 +22453,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -22592,7 +22593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -22732,7 +22733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -22872,7 +22873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -23074,7 +23075,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -23214,7 +23215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -23385,7 +23386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -23525,7 +23526,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -23665,7 +23666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -23805,7 +23806,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -23945,7 +23946,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -24085,7 +24086,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -24225,7 +24226,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -24427,7 +24428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -24567,7 +24568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -24707,7 +24708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -24847,7 +24848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -24987,7 +24988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -25127,7 +25128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -25267,7 +25268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -25407,7 +25408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -25547,7 +25548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -25687,7 +25688,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -25827,7 +25828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -25967,7 +25968,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -26107,7 +26108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -26317,7 +26318,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -26457,7 +26458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -26597,7 +26598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -26737,7 +26738,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -26877,7 +26878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27017,7 +27018,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27157,7 +27158,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27297,7 +27298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27437,7 +27438,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27577,7 +27578,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27717,7 +27718,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27857,7 +27858,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -27997,7 +27998,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -28137,7 +28138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -28277,7 +28278,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -28452,7 +28453,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -28592,7 +28593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -28732,7 +28733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -28872,7 +28873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29012,7 +29013,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29152,7 +29153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29292,7 +29293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29432,7 +29433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29572,7 +29573,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29712,7 +29713,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29852,7 +29853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -29992,7 +29993,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -30132,7 +30133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -30272,7 +30273,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -30412,7 +30413,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -30552,7 +30553,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -30692,7 +30693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -30832,7 +30833,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -30972,7 +30973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -31112,7 +31113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -31263,7 +31264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -31403,7 +31404,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -31543,7 +31544,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -31683,7 +31684,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -31823,7 +31824,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -31963,7 +31964,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -32165,7 +32166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -32305,7 +32306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -32445,7 +32446,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -32585,7 +32586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -32725,7 +32726,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -32865,7 +32866,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -33005,7 +33006,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -33145,7 +33146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -33285,7 +33286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -33425,7 +33426,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -33565,7 +33566,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -33705,7 +33706,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -33896,7 +33897,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -34036,7 +34037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -34176,7 +34177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -34316,7 +34317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -34456,7 +34457,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -34596,7 +34597,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -34736,7 +34737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -34876,7 +34877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35016,7 +35017,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35156,7 +35157,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35296,7 +35297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35436,7 +35437,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35576,7 +35577,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35716,7 +35717,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35856,7 +35857,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -35996,7 +35997,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -36136,7 +36137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -36276,7 +36277,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -36416,7 +36417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -36556,7 +36557,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -36696,7 +36697,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -36836,7 +36837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -36976,7 +36977,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -37116,7 +37117,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -37256,7 +37257,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -37396,7 +37397,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -37536,7 +37537,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -37676,7 +37677,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -37816,7 +37817,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -37956,7 +37957,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -38096,7 +38097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -38236,7 +38237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -38376,7 +38377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -38516,7 +38517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -38656,7 +38657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -38796,7 +38797,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -38936,7 +38937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -39076,7 +39077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -39216,7 +39217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -39356,7 +39357,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -39496,7 +39497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -39636,7 +39637,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -39776,7 +39777,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -39916,7 +39917,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -40056,7 +40057,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -40196,7 +40197,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -40336,7 +40337,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -40476,7 +40477,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -40616,7 +40617,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -40756,7 +40757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -40896,7 +40897,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -41036,7 +41037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -41176,7 +41177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -41410,7 +41411,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -41550,7 +41551,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -41690,7 +41691,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -41830,7 +41831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -41970,7 +41971,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -42110,7 +42111,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -42250,7 +42251,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -42390,7 +42391,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -42530,7 +42531,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -42670,7 +42671,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -42810,7 +42811,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -42950,7 +42951,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -43090,7 +43091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -43230,7 +43231,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -43370,7 +43371,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -43510,7 +43511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -43650,7 +43651,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -43790,7 +43791,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -43930,7 +43931,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -44070,7 +44071,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -44767,6 +44768,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d7ba157f86a44e58a07a233723c3170, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  useAll: 1
   selectionPercent: {x: 0.12469779, y: 0.3002926}
   allEffects: []
   getEffectsInChildrenOnAwake: 1
@@ -44867,7 +44869,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45007,7 +45009,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45147,7 +45149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45287,7 +45289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45427,7 +45429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45567,7 +45569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45707,7 +45709,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45847,7 +45849,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -45987,7 +45989,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -46127,7 +46129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -46267,7 +46269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -46407,7 +46409,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -46547,7 +46549,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -46687,7 +46689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -46827,7 +46829,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -46967,7 +46969,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -47107,7 +47109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -47247,7 +47249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -47387,7 +47389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -47527,7 +47529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -47667,7 +47669,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -47807,7 +47809,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -47947,7 +47949,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -48087,7 +48089,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -48227,7 +48229,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -48367,7 +48369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -48507,7 +48509,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -48647,7 +48649,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -48787,7 +48789,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -48927,7 +48929,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -49067,7 +49069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -49207,7 +49209,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -49347,7 +49349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -49487,7 +49489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -49627,7 +49629,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -49767,7 +49769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -49940,7 +49942,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -50080,7 +50082,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -50220,7 +50222,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -50360,7 +50362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -50500,7 +50502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -50640,7 +50642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -50780,7 +50782,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -50920,7 +50922,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -51060,7 +51062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -51200,7 +51202,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -51340,7 +51342,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -51480,7 +51482,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -51620,7 +51622,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -51760,7 +51762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -51900,7 +51902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -52040,7 +52042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -52180,7 +52182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -52320,7 +52322,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -52460,7 +52462,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -52711,7 +52713,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -52851,7 +52853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -52991,7 +52993,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -53131,7 +53133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -53271,7 +53273,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -53411,7 +53413,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -53551,7 +53553,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -53691,7 +53693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -53831,7 +53833,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -53971,7 +53973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -54111,7 +54113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -54251,7 +54253,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -54391,7 +54393,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -54531,7 +54533,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -54671,7 +54673,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -54811,7 +54813,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -54951,7 +54953,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -55091,7 +55093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -55231,7 +55233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -55371,7 +55373,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -55511,7 +55513,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -55725,7 +55727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -55865,7 +55867,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56005,7 +56007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56145,7 +56147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56285,7 +56287,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56425,7 +56427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56565,7 +56567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56705,7 +56707,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56845,7 +56847,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -56985,7 +56987,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -57125,7 +57127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -57265,7 +57267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -57405,7 +57407,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -57545,7 +57547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -57685,7 +57687,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -57825,7 +57827,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -57965,7 +57967,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -58105,7 +58107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -58245,7 +58247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -58385,7 +58387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -58525,7 +58527,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -58665,7 +58667,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -58805,7 +58807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -58945,7 +58947,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -59085,7 +59087,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -59225,7 +59227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -59365,7 +59367,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -59505,7 +59507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -59645,7 +59647,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -59785,7 +59787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -60036,7 +60038,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -60176,7 +60178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -60316,7 +60318,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -60456,7 +60458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -60646,7 +60648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -60786,7 +60788,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -60926,7 +60928,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -61066,7 +61068,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -61206,7 +61208,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -61346,7 +61348,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -61486,7 +61488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -61626,7 +61628,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -61766,7 +61768,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -61906,7 +61908,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -62046,7 +62048,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -62186,7 +62188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -62326,7 +62328,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -62466,7 +62468,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -62606,7 +62608,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -62746,7 +62748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -62886,7 +62888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -63026,7 +63028,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -63166,7 +63168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -63306,7 +63308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -63446,7 +63448,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -63586,7 +63588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -63726,7 +63728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -63866,7 +63868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -64006,7 +64008,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -64146,7 +64148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -64286,7 +64288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -64426,7 +64428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -64566,7 +64568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -64706,7 +64708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -64846,7 +64848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -65041,7 +65043,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -65181,7 +65183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -65321,7 +65323,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -65461,7 +65463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -65601,7 +65603,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -65741,7 +65743,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -65881,7 +65883,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -66021,7 +66023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -66161,7 +66163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -66301,7 +66303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -66441,7 +66443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -66581,7 +66583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -66721,7 +66723,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -66861,7 +66863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -67001,7 +67003,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -67141,7 +67143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -67281,7 +67283,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -67421,7 +67423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -67592,7 +67594,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -67732,7 +67734,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -67872,7 +67874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68012,7 +68014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68152,7 +68154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68292,7 +68294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68432,7 +68434,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68572,7 +68574,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68712,7 +68714,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68852,7 +68854,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -68992,7 +68994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -69132,7 +69134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -69191,6 +69193,77 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1712081647}
   m_Mesh: {fileID: 4300000, guid: ef0cc6a746af63e4ea423a4527703c0f, type: 3}
+--- !u!1 &1712414606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1712414607}
+  - component: {fileID: 1712414609}
+  - component: {fileID: 1712414608}
+  m_Layer: 0
+  m_Name: CameraShake
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1712414607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1712414606}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 94186187}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1712414608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1712414606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1697a0132719bae458729c9e99c0c716, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  addToGlobalShakers: 0
+--- !u!114 &1712414609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1712414606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb9ec9109f34683ae6d704460d44126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeConfig:
+    ShakeParameters:
+      shakeType: 0
+      strength: 0
+      roughness: 0
+      fadeIn: 0
+      fadeOut: 0
+      positionInfluence: {x: 0, y: 0, z: 0}
+      rotationInfluence: {x: 0, y: 0, z: 0}
+    StrengthScale: 0
+    RoughnessScale: 0
+    RemoveWhenStopped: 0
+  shaker: {fileID: 1712414608}
+  additive: 0
 --- !u!1 &1724107583
 GameObject:
   m_ObjectHideFlags: 0
@@ -69272,7 +69345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -69412,7 +69485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -69552,7 +69625,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -69692,7 +69765,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -69832,7 +69905,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -70034,7 +70107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -70174,7 +70247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -70410,7 +70483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -70550,7 +70623,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -70735,7 +70808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -70875,7 +70948,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71015,7 +71088,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71155,7 +71228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71295,7 +71368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71435,7 +71508,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71575,7 +71648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71715,7 +71788,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71855,7 +71928,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -71995,7 +72068,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -72135,7 +72208,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -72275,7 +72348,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -72415,7 +72488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -72555,7 +72628,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -72695,7 +72768,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -72835,7 +72908,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -72975,7 +73048,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -73115,7 +73188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -73255,7 +73328,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -73395,7 +73468,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -73535,7 +73608,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -73675,7 +73748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -73815,7 +73888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -73955,7 +74028,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -74095,7 +74168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -74235,7 +74308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -74375,7 +74448,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -74515,7 +74588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -74655,7 +74728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -74795,7 +74868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -74935,7 +75008,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -75075,7 +75148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -75215,7 +75288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -75355,7 +75428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -75495,7 +75568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -75635,7 +75708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -75775,7 +75848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -75915,7 +75988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -76055,7 +76128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -76195,7 +76268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -76446,7 +76519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -76586,7 +76659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -76726,7 +76799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -76866,7 +76939,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77006,7 +77079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77146,7 +77219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77286,7 +77359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77426,7 +77499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77566,7 +77639,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77706,7 +77779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77846,7 +77919,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -77986,7 +78059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -78126,7 +78199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -78266,7 +78339,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -78406,7 +78479,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -78546,7 +78619,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -78686,7 +78759,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -78826,7 +78899,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -78966,7 +79039,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -79106,7 +79179,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -79246,7 +79319,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -79386,7 +79459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -79526,7 +79599,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -79715,7 +79788,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -79855,7 +79928,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -79995,7 +80068,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -80135,7 +80208,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -80275,7 +80348,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -80415,7 +80488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -80555,7 +80628,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -80695,7 +80768,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -80835,7 +80908,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -80975,7 +81048,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -81115,7 +81188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -81255,7 +81328,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -81395,7 +81468,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -81535,7 +81608,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -81675,7 +81748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -81815,7 +81888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -81955,7 +82028,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -82095,7 +82168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -82235,7 +82308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -82375,7 +82448,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -82515,7 +82588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -82655,7 +82728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -82795,7 +82868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -82935,7 +83008,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -83075,7 +83148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -83215,7 +83288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -83355,7 +83428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -83495,7 +83568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -83795,7 +83868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -83935,7 +84008,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -84075,7 +84148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -84215,7 +84288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -84355,7 +84428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -84495,7 +84568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -84635,7 +84708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -84775,7 +84848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -84915,7 +84988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -85055,7 +85128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -85195,7 +85268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -85335,7 +85408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -85475,7 +85548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -85615,7 +85688,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -85755,7 +85828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
@@ -85895,7 +85968,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minScaleTarget: 1
-  maxScaleTarget: 2.2
+  maxScaleTarget: 1.2
   inEasing:
     animCurves: []
     eases: 01000000
