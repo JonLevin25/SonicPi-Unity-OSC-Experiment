@@ -40,15 +40,15 @@ end
 live_loop :drums do
   in_thread do
     tribalBase
-    [(div12 6)].each {|x|
+    [0.5].each {|x|
       sleep x
       tribalBase
     }
   end
   
-  sleep div3
+  sleep 1.0 / 3
   tribalTamborine
-  sleep div12 5
+  sleep 5.0 / 12
   tribalTamborine
   
   

@@ -7,6 +7,9 @@ use_osc "localhost", 7000 # sender only
 set :reverbVal, 0
 set :bitCrusherVal, 16
 
+#LIB_ROOT = <SONIC PI FOLDER>
+TAMBORINE = load_samples(LIB_ROOT + "tamborine/")
+
 N64 = 1.0/64.0
 N32 = 1.0/32.0
 N16 = 1.0/16.0

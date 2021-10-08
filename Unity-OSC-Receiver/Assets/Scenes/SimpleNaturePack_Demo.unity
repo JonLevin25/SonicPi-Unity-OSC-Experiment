@@ -6793,5 +6793,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: CommonPrefabs
       objectReference: {fileID: 0}
+    - target: {fileID: 5414061491732979621, guid: 8e6450b37cae74042910246602e41807, type: 3}
+      propertyPath: speed
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414061491732979621, guid: 8e6450b37cae74042910246602e41807, type: 3}
+      propertyPath: turnSpeed
+      value: 500
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e6450b37cae74042910246602e41807, type: 3}
