@@ -1,4 +1,3 @@
-# Welcome to Sonic Pi
 use_real_time
 
 use_osc "localhost", 7000 # sender only

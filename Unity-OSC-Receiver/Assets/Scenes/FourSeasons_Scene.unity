@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18033707, g: 0.22577964, b: 0.30695394, a: 1}
+  m_IndirectSpecularColor: {r: 0.18033743, g: 0.22578035, b: 0.30695525, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -232,7 +232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab5fc83aff8c3604a972578692d2e8fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prop: {r: 0.21960771, g: 0.7921569, b: 0.42745087, a: 1}
+  prop: {r: 1, g: 0.48627448, b: 0.050980374, a: 1}
   bindSourceToThisOnValidate: 1
   easing: 19
   durationRange: {x: 0.5, y: 1}
@@ -6794,12 +6794,8 @@ PrefabInstance:
       value: CommonPrefabs
       objectReference: {fileID: 0}
     - target: {fileID: 5414061491732979621, guid: 8e6450b37cae74042910246602e41807, type: 3}
-      propertyPath: speed
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 5414061491732979621, guid: 8e6450b37cae74042910246602e41807, type: 3}
       propertyPath: turnSpeed
-      value: 500
+      value: 210
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e6450b37cae74042910246602e41807, type: 3}
