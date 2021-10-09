@@ -1,8 +1,8 @@
 use_osc "localhost", 7000
 use_real_time
 
-#LIB_ROOT = <SONIC PI FOLDER>
-TAMBORINE = load_samples(LIB_ROOT + "tamborine/")
+LIB_ROOT = "PATH_TO_THIS_PROJECT/Sonic-Pi-Code"
+TAMBORINE = load_samples(LIB_ROOT + "/tamborine/")
 
 live_loop :metronome do
   sleep 1
