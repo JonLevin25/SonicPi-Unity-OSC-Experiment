@@ -116,6 +116,8 @@ live_loop :midi do
 end
 
 
+#### TBH Don't remember why these are here - either experiements or completely unrelated. Might check them out later
+
 ##| b = buffer(:looperbuf, 4)
 ##| live_loop :looper do
 ##|   with_fx :record, buffer: b do
